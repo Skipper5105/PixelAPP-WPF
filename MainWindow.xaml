@@ -1,0 +1,86 @@
+﻿<Window x:Class="PixelWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PixelApp" Height="900" Width="1600"
+        xmlns:ViewModels="clr-namespace:PixelWPF.ViewModels"
+        xmlns:Views="clr-namespace:PixelWPF.Views"
+        WindowStyle="None">
+
+    <Window.DataContext>
+        <ViewModels:MainViewModels/>
+    </Window.DataContext>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90"/>
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="DarkBlue" Offset="0"/>
+                <GradientStop Color="Purple" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Label Content="PixelApp"
+                   FontSize="32" 
+                   FontWeight="Bold" 
+                   Foreground="White"
+                   HorizontalAlignment="Center" 
+                   Margin="0,20,0,20"
+                   Width="170"
+                   Grid.Column="0"/>
+
+
+
+
+
+        <StackPanel Grid.Row="1"
+                    Grid.RowSpan="2"
+                    Width="225" 
+                    Margin="10,0,15,24"
+                   
+                    Background="#0056Bf" Height="734" VerticalAlignment="Bottom">
+            <Button Name="VerkaufBtn" 
+                    Content="Verkauf" 
+                    Height="50" 
+                    Command="{Binding VerkaufViewCommand}"
+                    Margin="0,5,0,10"/>
+            <Button Name="DienstBtn" 
+                    Content="Dienstleistungen" 
+                    Height="50"
+                    Command="{Binding DienstleistungenViewCommand}"
+                    Margin="0,5,0,10"/>
+            <Button 
+                    Content="Verlassen" 
+                    Height="50" 
+                    Click="quit_Click" 
+                    RenderTransformOrigin="0.508,0.575"
+                    Margin="0,480,0,10"/>
+
+
+
+        </StackPanel>
+
+
+
+
+
+
+        <ContentControl  Height="750" 
+                         Width="1300" 
+                         Grid.ColumnSpan="2"
+                         Grid.RowSpan="2"
+                         Grid.Column="1" 
+                         Grid.Row="1"
+                 Margin="10"
+                 Content="{Binding CurrentView}"/>
+    </Grid>
+</Window>

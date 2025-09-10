@@ -1,0 +1,33 @@
+﻿<Application x:Class="PixelWPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:PixelWPF"
+             StartupUri="MainWindow.xaml"
+             xmlns:ViewModels="clr-namespace:PixelWPF.ViewModels"
+             xmlns:Views="clr-namespace:PixelWPF.Views"
+             >
+             
+    
+    <Application.Resources>
+        <ResourceDictionary>
+
+
+            <DataTemplate DataType="{x:Type ViewModels:VerkaufViewModel}">
+                <Views:Verkauf/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type ViewModels:DienstleistungenViewModel}">
+                <Views:Dienstleistungen/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type ViewModels:KaufViewModels}">
+                <Views:Kauf/>
+            </DataTemplate>
+
+
+
+
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
