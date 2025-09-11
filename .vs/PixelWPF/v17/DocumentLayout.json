@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "S:\\Github Repos\\PixelAPP-WPF\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|s:\\github repos\\pixelapp-wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|s:\\github repos\\pixelapp-wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|s:\\github repos\\pixelapp-wpf\\pixelwpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|solutionrelative:pixelwpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
@@ -18,11 +26,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "S:\\Github Repos\\PixelAPP-WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "S:\\Github Repos\\PixelAPP-WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T08:42:55.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "S:\\Github Repos\\PixelAPP-WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "S:\\Github Repos\\PixelAPP-WPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-11T08:42:47.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PixelWPF",
               "DocumentMoniker": "S:\\Github Repos\\PixelAPP-WPF\\PixelWPF.csproj",
               "RelativeDocumentMoniker": "PixelWPF.csproj",
@@ -34,16 +67,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PixelWPF",
+              "DocumentIndex": 3,
+              "Title": "PixelWPF.csproj",
               "DocumentMoniker": "S:\\Github Repos\\PixelAPP-WPF\\PixelWPF.csproj",
               "RelativeDocumentMoniker": "PixelWPF.csproj",
               "ToolTip": "S:\\Github Repos\\PixelAPP-WPF\\PixelWPF.csproj",
               "RelativeToolTip": "PixelWPF.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-10T17:19:34.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T17:19:34.636Z"
             }
           ]
         }

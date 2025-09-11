@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\Github Repos\\PixelAPP-WPF\\PixelWPF.csproj",
+      "projectUniqueName": "S:\\PixelWPF\\PixelWPF.csproj",
       "projectName": "PixelWPF",
-      "projectPath": "S:\\Github Repos\\PixelAPP-WPF\\PixelWPF.csproj",
+      "projectPath": "S:\\PixelWPF\\PixelWPF.csproj",
       "packagesPath": "C:\\Users\\Skipper\\.nuget\\packages\\",
-      "outputPath": "S:\\Github Repos\\PixelAPP-WPF\\obj\\",
+      "outputPath": "S:\\PixelWPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

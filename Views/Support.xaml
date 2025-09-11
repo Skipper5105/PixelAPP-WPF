@@ -1,0 +1,57 @@
+﻿<UserControl x:Class="PixelWPF.Views.Support"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PixelWPF.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90"/>
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="DarkBlue" Offset="0"/>
+                <GradientStop Color="Purple" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Label Content="Support"
+                   FontSize="32" 
+                   FontWeight="Bold" 
+                   Foreground="White"
+                   HorizontalAlignment="Center" 
+                   Margin="0,20,0,20"
+                   Width="170"
+                   Grid.Column="0"/>
+
+        <TextBlock Grid.Row="1" Grid.Column="1"
+                   FontSize="14"
+                   Height="100"
+                   Width="275"
+                   Foreground="White"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                    Text="Bei Support Bitte auf meinen Github gehen"/>
+
+        <Button Grid.Column="1" Grid.Row="2"
+                Content="Github"
+                x:Name="GithubBtn"
+                Width="100"
+                Height="50"
+                FontSize="26"
+                Background="Transparent"
+                Foreground="White"
+                />
+
+    </Grid>
+</UserControl>

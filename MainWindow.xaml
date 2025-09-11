@@ -4,7 +4,9 @@
         Title="PixelApp" Height="900" Width="1600"
         xmlns:ViewModels="clr-namespace:PixelWPF.ViewModels"
         xmlns:Views="clr-namespace:PixelWPF.Views"
-        WindowStyle="None">
+        WindowStyle="ToolWindow"
+        ResizeMode="NoResize"
+        >
 
     <Window.DataContext>
         <ViewModels:MainViewModels/>
@@ -47,7 +49,7 @@
                     Width="225" 
                     Margin="10,0,15,24"
                    
-                    Background="#0056Bf" Height="734" VerticalAlignment="Bottom">
+                    >
             <Button Name="VerkaufBtn" 
                     Content="Verkauf" 
                     Height="50" 

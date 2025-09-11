@@ -53,7 +53,7 @@ namespace PixelWPF.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PixelWPF;V1.0.0.0;component/views/verkauf.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PixelWPF;component/views/verkauf.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\Verkauf.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -56,3 +56,5 @@ S:\PixelWPF\obj\Debug\net8.0-windows\refint\PixelWPF.dll
 S:\PixelWPF\obj\Debug\net8.0-windows\PixelWPF.pdb
 S:\PixelWPF\obj\Debug\net8.0-windows\PixelWPF.genruntimeconfig.cache
 S:\PixelWPF\obj\Debug\net8.0-windows\ref\PixelWPF.dll
+S:\PixelWPF\obj\Debug\net8.0-windows\Views\Support.g.cs
+S:\PixelWPF\obj\Debug\net8.0-windows\Views\Support.baml
