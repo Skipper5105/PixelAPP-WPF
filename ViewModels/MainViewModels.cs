@@ -15,14 +15,18 @@ namespace PixelWPF.ViewModels
             public RelayCommands VerkaufViewCommand { get; set; }
             public RelayCommands DienstleistungenViewCommand { get; set; }
             public RelayCommands KaufViewCommand { get; set; }
+            public RelayCommands SupportViewCommand { get; set; }
 
         // ViewModels
-            public VerkaufViewModel VerkaufVM{ get; set; }
+        public VerkaufViewModel VerkaufVM{ get; set; }
             public DienstleistungenViewModel DienstleistungenVM { get; set; }
 
             public KaufViewModels KaufVM { get; set; }
 
-            private object _currentView;
+            public SupportViewModel SupportVM { get; set; }
+
+
+        private object _currentView;
             public object CurrentView
             {
                 get { return _currentView; }
@@ -41,7 +45,8 @@ namespace PixelWPF.ViewModels
                 VerkaufVM = new VerkaufViewModel();
                 DienstleistungenVM = new DienstleistungenViewModel();
                 KaufVM = new KaufViewModels();
-                CurrentView = DienstleistungenVM;
+                SupportVM = new SupportViewModel();
+                CurrentView = VerkaufVM;
 
                 VerkaufViewCommand = new RelayCommands(o =>
                 {
@@ -56,6 +61,11 @@ namespace PixelWPF.ViewModels
                 KaufViewCommand = new RelayCommands(o =>
                 {
                     CurrentView = KaufVM;
+                });
+
+                SupportViewCommand = new RelayCommands(o =>
+                {
+                    CurrentView = SupportVM;
                 });
 
         } 

@@ -27,3 +27,37 @@ S:\PixelWPF\obj\Release\net8.0-windows\refint\PixelWPF.dll
 S:\PixelWPF\obj\Release\net8.0-windows\PixelWPF.pdb
 S:\PixelWPF\obj\Release\net8.0-windows\PixelWPF.genruntimeconfig.cache
 S:\PixelWPF\obj\Release\net8.0-windows\ref\PixelWPF.dll
+S:\PixelWPF\obj\Release\net8.0-windows\Views\Support.g.cs
+S:\PixelWPF\obj\Release\net8.0-windows\Views\Support.baml
+S:\Github Repos\PixelAPP-WPF\bin\Release\net8.0-windows\PixelWPF.exe
+S:\Github Repos\PixelAPP-WPF\bin\Release\net8.0-windows\PixelWPF.deps.json
+S:\Github Repos\PixelAPP-WPF\bin\Release\net8.0-windows\PixelWPF.runtimeconfig.json
+S:\Github Repos\PixelAPP-WPF\bin\Release\net8.0-windows\PixelWPF.dll
+S:\Github Repos\PixelAPP-WPF\bin\Release\net8.0-windows\PixelWPF.pdb
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\MainWindow.g.cs
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\Views\Dienstleistungen.g.cs
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\Views\Kauf.g.cs
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\Views\Support.g.cs
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\Views\Verkauf.g.cs
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\App.g.cs
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\PixelWPF_Content.g.cs
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\PixelWPF_MarkupCompile.cache
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\PixelWPF_MarkupCompile.lref
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\App.baml
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\MainWindow.baml
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\Views\Dienstleistungen.baml
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\Views\Kauf.baml
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\Views\Support.baml
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\Views\Verkauf.baml
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\PixelWPF.g.resources
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\PixelWPF.GeneratedMSBuildEditorConfig.editorconfig
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\PixelWPF.AssemblyInfoInputs.cache
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\PixelWPF.AssemblyInfo.cs
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\PixelWPF.csproj.CoreCompileInputs.cache
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\PixelWPF.sourcelink.json
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\PixelWPF.dll
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\refint\PixelWPF.dll
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\PixelWPF.pdb
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\PixelWPF.genruntimeconfig.cache
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\ref\PixelWPF.dll

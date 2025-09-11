@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-S:\PixelWPF\obj\Release\net8.0-windows\
+S:\Github Repos\PixelAPP-WPF\obj\Release\net8.0-windows\
 PixelWPF
 none
 false
 TRACE;RELEASE;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-S:\PixelWPF\App.xaml
-4268353192
+S:\Github Repos\PixelAPP-WPF\App.xaml
+5-962995534
 1165492045
-13-361892525
+151563612347
 198-192518753
-MainWindow.xaml;Views\Dienstleistungen.xaml;Views\Kauf.xaml;Views\Verkauf.xaml;
+MainWindow.xaml;Views\Dienstleistungen.xaml;Views\Kauf.xaml;Views\Support.xaml;Views\Verkauf.xaml;
 
 False
 

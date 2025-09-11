@@ -6,8 +6,8 @@
              xmlns:ViewModels="clr-namespace:PixelWPF.ViewModels"
              xmlns:Views="clr-namespace:PixelWPF.Views"
              >
-             
-    
+
+
     <Application.Resources>
         <ResourceDictionary>
 
@@ -22,6 +22,10 @@
 
             <DataTemplate DataType="{x:Type ViewModels:KaufViewModels}">
                 <Views:Kauf/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type ViewModels:SupportViewModel}">
+                <Views:Support/>
             </DataTemplate>
 
 
