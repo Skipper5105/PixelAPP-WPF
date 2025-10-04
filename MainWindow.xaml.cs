@@ -20,10 +20,6 @@ namespace PixelWPF
            // InitializeComponent();
         }
 
-        private void quit_Click(object sender, RoutedEventArgs e)
-        {
-            Application.Current.Shutdown();
-        }
 
         /* private void OpenChildFrom(Form childForm, object btnSender)
         {
@@ -40,6 +36,20 @@ namespace PixelWPF
         {
             //OpenChildFrom(new Form1(), sender);
             MessageBox.Show("Button clicked!");
+        }
+
+
+
+
+
+        private void CloseBtn_Click_1(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
+        }
+
+        private void MinimizeBtn_Click_1(object sender, RoutedEventArgs e)
+        {
+            this.WindowState = WindowState.Minimized;
         }
     }
 }
