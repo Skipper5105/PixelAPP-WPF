@@ -54,12 +54,19 @@
                     Content="Verkauf" 
                     Height="50" 
                     Command="{Binding VerkaufViewCommand}"
-                    Margin="0,5,0,10"/>
+                    Margin="0,5,0,10"
+                    Background="Transparent"
+                    Foreground="White"
+                    FontSize="24"/>
+            
             <Button Name="DienstBtn" 
                     Content="Dienstleistungen" 
                     Height="50"
                     Command="{Binding DienstleistungenViewCommand}"
-                    Margin="0,5,0,10"/>
+                    Margin="0,5,0,10"
+                    Background="Transparent"
+                    FontSize="24"
+                    Foreground="White"/>
 
 
 

@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|c:\\users\\skipper\\desktop\\pixelapp-wpf\\views\\verkauf.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|solutionrelative:views\\verkauf.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|c:\\users\\skipper\\desktop\\pixelapp-wpf\\views\\dienstleistungen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|solutionrelative:views\\dienstleistungen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|c:\\users\\skipper\\desktop\\pixelapp-wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|c:\\users\\skipper\\desktop\\pixelapp-wpf\\views\\support.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|solutionrelative:views\\support.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|c:\\users\\skipper\\desktop\\pixelapp-wpf\\views\\dienstleistungen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|solutionrelative:views\\dienstleistungen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|c:\\users\\skipper\\desktop\\pixelapp-wpf\\views\\verkauf.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|solutionrelative:views\\verkauf.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|c:\\users\\skipper\\desktop\\pixelapp-wpf\\views\\kauf.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|solutionrelative:views\\kauf.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|c:\\users\\skipper\\desktop\\pixelapp-wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Dienstleistungen.xaml",
               "DocumentMoniker": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\Views\\Dienstleistungen.xaml",
               "RelativeDocumentMoniker": "Views\\Dienstleistungen.xaml",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Support.xaml",
               "DocumentMoniker": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\Views\\Support.xaml",
               "RelativeDocumentMoniker": "Views\\Support.xaml",
@@ -58,31 +58,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Verkauf.xaml",
               "DocumentMoniker": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\Views\\Verkauf.xaml",
               "RelativeDocumentMoniker": "Views\\Verkauf.xaml",
               "ToolTip": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\Views\\Verkauf.xaml",
               "RelativeToolTip": "Views\\Verkauf.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-04T14:30:18.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-04T14:30:18.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Kauf.xaml",
               "DocumentMoniker": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\Views\\Kauf.xaml",
               "RelativeDocumentMoniker": "Views\\Kauf.xaml",
               "ToolTip": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\Views\\Kauf.xaml",
               "RelativeToolTip": "Views\\Kauf.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-04T14:30:04.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-04T14:30:04.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
