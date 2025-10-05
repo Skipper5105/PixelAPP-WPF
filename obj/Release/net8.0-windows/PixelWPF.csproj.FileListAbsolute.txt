@@ -59,3 +59,6 @@ C:\Users\Skipper\Desktop\PixelAPP-WPF\obj\Release\net8.0-windows\refint\PixelWPF
 C:\Users\Skipper\Desktop\PixelAPP-WPF\obj\Release\net8.0-windows\PixelWPF.pdb
 C:\Users\Skipper\Desktop\PixelAPP-WPF\obj\Release\net8.0-windows\PixelWPF.genruntimeconfig.cache
 C:\Users\Skipper\Desktop\PixelAPP-WPF\obj\Release\net8.0-windows\ref\PixelWPF.dll
+C:\Users\Skipper\Desktop\PixelAPP-WPF\bin\Release\net8.0-windows\PixelWPF.dll.config
+C:\Users\Skipper\Desktop\PixelAPP-WPF\obj\Release\net8.0-windows\Views\Settings.g.cs
+C:\Users\Skipper\Desktop\PixelAPP-WPF\obj\Release\net8.0-windows\Views\Settings.baml

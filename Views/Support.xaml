@@ -5,7 +5,8 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:PixelWPF.Views"
              mc:Ignorable="d" 
-             d:DesignHeight="450" d:DesignWidth="800">
+             d:DesignHeight="450" d:DesignWidth="800"
+             Background="Transparent">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="250"/>
@@ -18,12 +19,7 @@
             <RowDefinition />
         </Grid.RowDefinitions>
 
-        <Grid.Background>
-            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
-                <GradientStop Color="DarkBlue" Offset="0"/>
-                <GradientStop Color="Purple" Offset="1"/>
-            </LinearGradientBrush>
-        </Grid.Background>
+
 
         <Label Content="Support"
                    FontSize="32" 
@@ -51,7 +47,8 @@
                 FontSize="26"
                 Background="Transparent"
                 Foreground="White"
-                />
+                BorderBrush="Transparent"
+                Click="GithubBtn_Click_1"/>
 
     </Grid>
 </UserControl>

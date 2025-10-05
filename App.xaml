@@ -24,7 +24,13 @@
                 <Views:Kauf/>
             </DataTemplate>
 
+            <DataTemplate DataType="{x:Type ViewModels:SupportViewModel}">
+                <Views:Support/>
+            </DataTemplate>
 
+            <DataTemplate DataType="{x:Type ViewModels:SettingsViewModel}">
+                <Views:Settings/>
+            </DataTemplate>
 
 
 
