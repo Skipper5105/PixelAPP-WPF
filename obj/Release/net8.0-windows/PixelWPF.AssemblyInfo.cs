@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PixelWPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2da5a322da7e8ab3040533f59ebf2c0a04a65ca2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d88e475373a45bddd73c59a7cb840bb71ae8ea72")]
 [assembly: System.Reflection.AssemblyProductAttribute("PixelWPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PixelWPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|c:\\users\\skipper\\desktop\\pixelapp-wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|c:\\users\\skipper\\desktop\\pixelapp-wpf\\viewmodels\\mainviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|solutionrelative:viewmodels\\mainviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|c:\\users\\skipper\\desktop\\pixelapp-wpf\\kernel\\relaycommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|solutionrelative:kernel\\relaycommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|c:\\users\\skipper\\desktop\\pixelapp-wpf\\kernel\\observalobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|solutionrelative:kernel\\observalobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|c:\\users\\skipper\\desktop\\pixelapp-wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B25385A-D1DA-48CC-85EE-0343CEA95E56}|PixelWPF.csproj|c:\\users\\skipper\\desktop\\pixelapp-wpf\\views\\support.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -51,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -64,13 +72,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainViewModels.cs",
               "DocumentMoniker": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\ViewModels\\MainViewModels.cs",
               "RelativeDocumentMoniker": "ViewModels\\MainViewModels.cs",
               "ToolTip": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\ViewModels\\MainViewModels.cs",
               "RelativeToolTip": "ViewModels\\MainViewModels.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAkwEQAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T14:06:51.074Z",
               "IsPinned": true,
@@ -78,7 +86,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelayCommands.cs",
+              "DocumentMoniker": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\Kernel\\RelayCommands.cs",
+              "RelativeDocumentMoniker": "Kernel\\RelayCommands.cs",
+              "ToolTip": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\Kernel\\RelayCommands.cs",
+              "RelativeToolTip": "Kernel\\RelayCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T21:03:03.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ObservalObject.cs",
+              "DocumentMoniker": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\Kernel\\ObservalObject.cs",
+              "RelativeDocumentMoniker": "Kernel\\ObservalObject.cs",
+              "ToolTip": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\Kernel\\ObservalObject.cs",
+              "RelativeToolTip": "Kernel\\ObservalObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T21:03:00.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Support.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\Views\\Support.xaml.cs",
               "RelativeDocumentMoniker": "Views\\Support.xaml.cs",
@@ -86,32 +120,29 @@
               "RelativeToolTip": "Views\\Support.xaml.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAawCcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T14:59:08.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T14:59:08.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Support.xaml",
               "DocumentMoniker": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\Views\\Support.xaml",
               "RelativeDocumentMoniker": "Views\\Support.xaml",
               "ToolTip": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\Views\\Support.xaml",
               "RelativeToolTip": "Views\\Support.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-05T14:58:31.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T14:58:31.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Settings.xaml",
               "DocumentMoniker": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\Views\\Settings.xaml",
               "RelativeDocumentMoniker": "Views\\Settings.xaml",
               "ToolTip": "C:\\Users\\Skipper\\Desktop\\PixelAPP-WPF\\Views\\Settings.xaml",
               "RelativeToolTip": "Views\\Settings.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-05T14:15:11.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T14:15:11.608Z"
             }
           ]
         }
